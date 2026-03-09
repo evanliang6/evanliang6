@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](屏幕截图 2026-03-09 152415.png)
+![](./屏幕截图%202026-03-09%20152415.png)
 <!--
 **evanliang6/evanliang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
